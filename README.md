@@ -1,4 +1,9 @@
+# About this project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A fully functional calculator application
+
+<img width="1189" alt="calc" src="https://user-images.githubusercontent.com/43705850/60321317-53ce7f80-9931-11e9-9c1b-47410fecc1e9.png">
 
 ## Available Scripts
 
